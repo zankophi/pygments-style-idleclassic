@@ -7,8 +7,6 @@ import os
 version = '0.1.1'
 long_description = '\n'.join([
     open('README.rst').read(),
-    open('AUTHORS.rst').read(),
-    open('HISTORY.rst').read(),
     ])
 
 classifiers = [
