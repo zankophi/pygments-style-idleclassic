@@ -1,0 +1,3 @@
+include buildout.cfg
+include MANIFEST.in
+include *.rst
