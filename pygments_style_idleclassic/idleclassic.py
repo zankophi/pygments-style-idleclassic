@@ -15,6 +15,7 @@ class IdleClassicStyle(Style):
         Name:                   '#000',
         Name.Function:          '#00F',
         Name.Class:             '#00F',
+        Name.Builtin:           '#900090',   
         String:                 '#0A0',
         Error:                  'bg: #F30',
     }
