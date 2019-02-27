@@ -11,6 +11,7 @@ class IdleClassicStyle(Style):
         Keyword:                '#F70',
         Keyword.Pseudo:         '#900090',
         Keyword.Constant:       '#900090',
+        Operator.Word:          '#F70',
         Comment:                '#D00',
         Name:                   '#000',
         Name.Function:          '#00F',
